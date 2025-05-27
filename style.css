@@ -70,3 +70,24 @@ ul {
     margin-top: 25px;
     margin-left: -2.3%;
 }
+
+table {
+    text-align: left;
+    vertical-align: middle;
+    border-collapse: collapse;
+    position: relative;
+    top: 10px;
+}
+
+.cella50 {
+    width: 50%;
+}
+
+thead {
+    color: #FFFFFF;
+    background-color: #20a9e5;
+}
+
+.riga-blu {
+    background-color: #b1e5f2;
+}
