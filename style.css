@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 header {
     background-color: #4da0fe;
     background-image: url(./image/pattern.png);
@@ -9,4 +13,26 @@ header {
     width: 200px;
     position: relative;
     top: 44px;
+}
+
+#title {
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#autore {
+    position: relative;
+    bottom: 35px;
+    font-size: 19px;
+    color: #8b8b8b;
+}
+
+#data {
+    position: relative;
+    bottom: 55px;
+    font-size: 13px;
+    color: #8b8b8b;
 }
