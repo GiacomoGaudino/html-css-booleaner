@@ -7,6 +7,8 @@ header {
     background-image: url(./image/pattern.png);
     background-size: 400px;
     height: 100px;
+    max-width: 1080px;
+    margin: 0px auto;
 }
 
 #logo {
@@ -30,9 +32,25 @@ h1 {
     color: #8b8b8b;
 }
 
+strong {
+    color: #22aee7;
+}
+
 #data {
     position: relative;
     bottom: 55px;
     font-size: 13px;
     color: #8b8b8b;
+}
+
+.foto-tim {
+    position: relative;
+    bottom: 50px;
+}
+
+.details-photo {
+    font-size: 12px;
+    margin: 0px;
+    position: relative;
+    bottom: 50px;
 }
