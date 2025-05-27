@@ -2,13 +2,16 @@ body {
     margin: 0px;
 }
 
+#container {
+    max-width: 1080px;
+    margin: 0px auto;
+}
+
 header {
     background-color: #4da0fe;
     background-image: url(./image/pattern.png);
     background-size: 400px;
     height: 100px;
-    max-width: 1080px;
-    margin: 0px auto;
 }
 
 #logo {
@@ -23,11 +26,13 @@ header {
 
 h1 {
     font-size: 40px;
+    position: relative;
+    bottom: 40px;
 }
 
 #autore {
     position: relative;
-    bottom: 35px;
+    bottom: 75px;
     font-size: 19px;
     color: #8b8b8b;
 }
@@ -38,19 +43,30 @@ strong {
 
 #data {
     position: relative;
-    bottom: 55px;
+    bottom: 95px;
     font-size: 13px;
     color: #8b8b8b;
 }
 
 .foto-tim {
     position: relative;
-    bottom: 50px;
+    bottom: 85px;
 }
 
 .details-photo {
     font-size: 12px;
     margin: 0px;
     position: relative;
-    bottom: 50px;
+    bottom: 85px;
+}
+
+#description {
+    position: relative;
+    margin-top: -65px;
+}
+
+ul {
+    position: relative;
+    margin-top: 25px;
+    margin-left: -2.3%;
 }
