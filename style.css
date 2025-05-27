@@ -91,3 +91,8 @@ thead {
 .riga-blu {
     background-color: #b1e5f2;
 }
+
+#description-2 {
+    position: relative;
+    top: 10px;
+}
