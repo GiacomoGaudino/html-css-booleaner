@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #4da0fe;
+    background-color: #4ea0ff;
     background-image: url(./image/pattern.png);
     background-size: 400px;
     height: 100px;
@@ -34,18 +34,18 @@ h1 {
     position: relative;
     bottom: 75px;
     font-size: 19px;
-    color: #8b8b8b;
+    color: #808080;
 }
 
 strong {
-    color: #22aee7;
+    color: #3cb4e7;
 }
 
 #data {
     position: relative;
     bottom: 95px;
     font-size: 13px;
-    color: #8b8b8b;
+    color: #808080;
 }
 
 .foto-tim {
@@ -95,4 +95,28 @@ thead {
 #description-2 {
     position: relative;
     top: 10px;
+}
+
+h4 {
+    color: #808080;
+}
+
+h3 {
+    color: #FFFFFF;
+}
+
+#immagine-pc {
+    background-image: url(./image/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#immagine-grafici {
+    background-image: url(./image/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
 }
