@@ -1,0 +1,122 @@
+body {
+    margin: 0px;
+}
+
+#container {
+    max-width: 1080px;
+    margin: 0px auto;
+}
+
+header {
+    background-color: #4ea0ff;
+    background-image: url(./image/pattern.png);
+    background-size: 400px;
+    height: 100px;
+}
+
+#logo {
+    width: 200px;
+    position: relative;
+    top: 44px;
+}
+
+#title {
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 40px;
+    position: relative;
+    bottom: 40px;
+}
+
+#autore {
+    position: relative;
+    bottom: 75px;
+    font-size: 19px;
+    color: #808080;
+}
+
+strong {
+    color: #3cb4e7;
+}
+
+#data {
+    position: relative;
+    bottom: 95px;
+    font-size: 13px;
+    color: #808080;
+}
+
+.foto-tim {
+    position: relative;
+    bottom: 85px;
+}
+
+.details-photo {
+    font-size: 12px;
+    margin: 0px;
+    position: relative;
+    bottom: 85px;
+}
+
+#description {
+    position: relative;
+    margin-top: -65px;
+}
+
+ul {
+    position: relative;
+    margin-top: 25px;
+    margin-left: -2.3%;
+}
+
+table {
+    text-align: left;
+    vertical-align: middle;
+    border-collapse: collapse;
+    position: relative;
+    top: 10px;
+}
+
+.cella50 {
+    width: 50%;
+}
+
+thead {
+    color: #FFFFFF;
+    background-color: #20a9e5;
+}
+
+.riga-blu {
+    background-color: #b1e5f2;
+}
+
+#description-2 {
+    position: relative;
+    top: 10px;
+}
+
+h4 {
+    color: #808080;
+}
+
+h3 {
+    color: #FFFFFF;
+}
+
+#immagine-pc {
+    background-image: url(./image/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#immagine-grafici {
+    background-image: url(./image/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
