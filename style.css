@@ -12,6 +12,8 @@ header {
     background-image: url(./image/pattern.png);
     background-size: 400px;
     height: 100px;
+    max-width: 1080px;
+    margin: auto;
 }
 
 #logo {
